@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **BioSentry: AI & Web3-Powered Micro Blood Diagnostics – A Java-based diagnostic tool using AI and Web3 to detect diseases from a few drops of blood.**(🔗 Project Link Coming Soon)
 
-- 🌱 I’m currently learning **Languages & Tools: DSA in Java & C++, Django, JavaScript, Linux Courses: - TCS Cybersecurity Analyst Job Simulation (Forage) - Deloitte Cybersecurity Virtual Internship (Forage) - Google Cybersecurity Certificate (Coursera – In Progress)**
+- 🌱 I’m currently learning **Languages & Tools: DSA in Java & C++, Django, JavaScript, Linux, Courses:- TCS Cybersecurity Analyst Job Simulation (Forage), - Deloitte Cybersecurity Virtual Internship (Forage), - Google Cybersecurity Certificate (Coursera – In Progress)**
 
 - 💬 Ask me about **Programming in C, C++, Java, Tools: Linux, Cybersecurity fundamentals and IAM, Hackathons, design thinking & student startups**
 
@@ -19,8 +19,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vavilthota poojyasree" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vavilthota poojyasree" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/poojya_sree" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="poojya_sree" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/poojya_sree_210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="poojya_sree_210" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/poojyasreeva1qak/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="poojyasreeva1qak" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/poojya_sree" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="poojya_sree" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
